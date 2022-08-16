@@ -1,10 +1,10 @@
 <p>
-<img src="./simulador_solar/pictures/logo.png" alt="Scver_logo" style="float:right;width:149px;height:38px;">
+<img src="https://github.com/Casa-dos-Ventos/simulador_solar/blob/main/pictures/logo.png" alt="Scver_logo" style="float:right;width:149px;height:38px;">
 
 
 # Documentation of Solar Simulator CVER
 
-</p>
+</p> 
 
 ## List of Contents
   - [Purpose](#purpose)
