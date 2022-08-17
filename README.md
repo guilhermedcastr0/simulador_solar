@@ -13,8 +13,6 @@
   - [Instalation](#instalation)
   - [How to use it](#how-to-use-it)
   - [Output](#output)
-  - [Maneging data](#maneging-data)
-  - [Adding a new layer](#adding-a-new-layer)
   - [To do list](#to-do-list)
 
 
