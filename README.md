@@ -85,7 +85,7 @@ The external information used are listed below:
 1. First thing you need to do is clone this repo into your folder with:
 
 ````
-git clone https://github.com/Casa-dos-Ventos/solar_simulator.git
+git clone https://github.com/Casa-dos-Ventos/simulador_solar.git
 ````
 
 2. After that, *in the `G:\Drives compartilhados\[GITHUB] Casos de uso\simulador_solar`** folder, make a copy of the `Rio do Vento` template folder or follow the same nomenclature standardization for use in an already existing project. existing.
